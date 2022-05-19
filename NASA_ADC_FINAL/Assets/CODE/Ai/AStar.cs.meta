@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 849075e8644654f3b82d8a3358a2b569
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mg: {instanceID: 0}
+  - ai: {instanceID: 0}
+  - cl: {instanceID: 0}
+  - l: {instanceID: 0}
+  - comLinkPrefab: {fileID: 919132149155446097, guid: e6abb02ab0f9749588588b3171de7e31,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
