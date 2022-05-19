@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - tMapGenerator
+  - AIQValuePrefab
+  - worldCanvas
+  - wallParent
+  - screenCanvas
+  - minimapCam
+  - minimapController
+  - debugUI/cartPos/x
+  - debugUI/cartPos/z
+  - debugUI/geoPos/lat
+  - debugUI/geoPos/lon
+  - debugUI/gridPos/x
+  - debugUI/gridPos/y
+  - debugUI/general/defaultH
+  - debugUI/general/displayH
+  - debugUI/general/slope
+  - debugUI/general/fakePoint
+  - debugUI/parent
+  - debugUI/general/index
+  - worldmap/mapName
+  - worldmap/parent
+  - worldmap/gridsizeOverlay
+  - comLink
+  - miscMsgs/aiSet
+  - miscMsgs/error
+  - worldmap/key
+  - cl
+  - wall
+  - loadingScreen
+  - minimapConfirm
+  - meshColoring
+  - controlHub
+  - astar
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - player
+  - minimapUI
+  - minimapMesh
+  - debugUI
+  - minimapGrid
+  - A*Line
+  - canCollide
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: worldCanvas
+    uniqueID: 739220483
+    locked: 0

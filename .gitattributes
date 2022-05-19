@@ -1,0 +1,2 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+NASA_ADC_FINAL/Assets/Resources/MoonData/CSVFORADC.csv filter=lfs diff=lfs merge=lfs -text
